@@ -1,0 +1,4 @@
+{
+    "githubIssues.issueBranchTitle": "${user}/#${issueNumber}-${sanitizedLowercaseIssueTitle}",
+    "livePreview.serverRoot": "dist"
+}
